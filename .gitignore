@@ -1,0 +1,8 @@
+.env
+
+.HSenv/
+HSenv/
+
+_pycache__/
+
+vscode/
